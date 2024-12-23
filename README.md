@@ -1,3 +1,23 @@
+# Launching React part in localhost:
+  npm i
+  npm run dev 
+# Launching in an ElectronJS Client 
+  npm i
+  npm run exec
+  Warning : Port is manually script in electron.js , may need to be change based on which port React server will launch
+
+
+  # Project description
+
+  First solo project, main goal is to learn bases of HTML CSS to build a responsive interface.
+  Initial idea was to have a gameLoop script running and having variable used in this script dynamically shown in React component ( by RxJS )
+  Since React component can handle variable and Props, gameLoop were not needed. At this point gameLoop became more of a function library.
+
+
+
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
