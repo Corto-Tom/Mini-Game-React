@@ -1,0 +1,100 @@
+[
+    { 
+        "id": 1,
+        "name": "Jardins Royaux",
+        "desc": "De vastes jardins ornés de fleurs rares et de statues des anciens rois. \nOn dit que la princesse aimait s'y promener à l'aube pour méditer."
+    },
+    {
+        "id": 2, 
+        "name": "Tour de Guet Une tour perchée au sommet du château", 
+        "desc": "offrant une vue imprenable sur tout le royaume. \nLa légende raconte qu'un chevalier y aurait vu une comète annonciatrice de grands bouleversements."
+    }, 
+    { 
+        "id" : 3, 
+        "name": "Salle des Banquets Oubliés Autrefois",
+        "desc": "cette salle accueillait de somptueux banquets royaux. \nAujourd'hui, elle est déserte, et certains disent encore entendre les échos de conversations passées."
+    },
+    { 
+        "id" :4, 
+        "name": "Souterrains du Château", 
+        "desc": "Ces tunnels sombres et humides abritent des passages secrets menant à des lieux oubliés. \nIl y a des siècles, ils servaient de refuge en temps de guerre."
+    },
+    { 
+        "id" :5, 
+        "name": "Bibliothèque Interdite", 
+        "desc": "Cette bibliothèque renferme des livres anciens et des grimoires interdits. \nIl est dit qu'un sort puissant fut autrefois scellé ici pour protéger le royaume."
+    }, 
+    { 
+        "id" :6, 
+        "name": "Salle du Trône Maudit", 
+        "desc": "Une majestueuse salle où repose le trône, maintenant déserté. \nLa légende raconte qu'un roi y aurait été maudit, condamnant le trône à rester vide."
+    },
+    { 
+        "id" :7, 
+        "name": "Pont-Levis Brisé", 
+        "desc": "Ce pont menait autrefois à la cour intérieure du château, mais il fut détruit lors d'un siège. \nIl reste suspendu au-dessus d'un fossé profond et redouté."
+    },
+    { 
+        "id" :8, 
+        "name": "Cachots du Désespoir", 
+        "desc": "Les cachots sombres et humides, creusés dans la pierre. \nOn raconte que ceux qui y étaient enfermés pouvaient entendre des murmures venus des profondeurs."
+    }, 
+    { 
+        "id" :9, 
+        "name": "Salle des Trésors Perdus", 
+        "desc": "Une salle secrète remplie de coffres poussiéreux, jadis pleine des trésors du royaume. \nAprès un pillage, seuls quelques objets mystérieux restent encore."
+    }, 
+    { 
+        "id" :10, 
+        "name": "Cour du Roi Déchu", 
+        "desc": "Une cour ancienne et dévastée où les statues des anciens rois sont brisées. \nElle servit jadis de lieu de duel pour les chevaliers en disgrâce."
+    }, 
+    { 
+        "id" :11, "name": "Chapelle Sacrée", "desc": "Un lieu de prière et de méditation pour la famille royale. \nOn dit que des cérémonies secrètes y étaient tenues pour appeler la bénédiction des déesses."
+    },
+    { 
+        "id" : 12, 
+        "name": "Portes du Bastion", 
+        "desc": "Les imposantes portes fortifiées protégeant le château. \nLors d'un siège mémorable, elles résistèrent trois jours à une attaque ennemie sans faiblir."
+    }, 
+    { 
+        "id" :13, 
+        "name": "Écuries Royales", 
+        "desc": "D'anciennes écuries autrefois pleines de chevaux majestueux. \nUn des étalons légendaires du royaume, capable de courir à travers le vent, y fut gardé."
+    }, 
+    { 
+        "id" :14, 
+        "name": "Salle des Miroirs", 
+        "desc": "Une grande salle décorée de miroirs scintillants. \nSelon la rumeur, ces miroirs révèlent des secrets du passé à ceux qui osent s'y contempler."
+    }, 
+    { 
+        "id" :15, 
+        "name": "Toits du Château", 
+        "desc": "Les toits du château offrent une vue spectaculaire, mais sont périlleux à traverser. \nDes espions ennemis s'y seraient faufilés pendant la grande guerre."
+    },
+    { 
+        "id" :16, 
+        "name": "Les Grands Escaliers", 
+        "desc": "De majestueux escaliers en pierre, menant aux niveaux supérieurs du château. \nChaque marche est gravée du nom d'un ancien roi ou héros du royaume."
+    }, 
+    { 
+        "id" :17, 
+        "name": "Fosse aux Corbeaux", 
+        "desc": "Un coin reculé du château, où une nuée de corbeaux réside en permanence. \nLes superstitieux affirment qu'ils sont les gardiens des secrets de la cour."
+    }, 
+    { 
+        "id" :18, 
+        "name": "Crypte Royale", 
+        "desc": "La dernière demeure des anciens rois, où leurs tombes sont ornées de symboles sacrés. \nOn murmure que les esprits de ces rois protègent encore le royaume."
+    }, 
+    { 
+        "id" :19, 
+        "name": "Remparts Oubliés", 
+        "desc": "Ces remparts, maintenant en ruine, servaient autrefois de première ligne de défense. \nAbandonnés depuis des siècles, ils sont envahis par la végétation."
+    }, 
+    { 
+        "id" :20, 
+        "name": "Tour de Garde Éthérée", 
+        "desc": "Une tour étrange où l'air semble vibrer de magie ancienne. \nLes rumeurs disent qu'un puissant mage y avait établi ses quartiers, infusant la pierre de sa puissance."
+    }
+]

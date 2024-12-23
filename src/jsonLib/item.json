@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name" : "Small Potion",
+        "desc" : "A bottle of diluted Faery Water, heal 20 hp",
+        "rarity": 1,
+        "type": "consummable",
+        "str": 20
+    },
+    {
+        "id": 2,
+        "name" : "Potion",
+        "desc" : "A bottle of Faery Water, heal 40 hp",
+        "rarity": 2,
+        "type": "consummable",
+        "str": 40
+    },
+    {
+        "id": 3,
+        "name" : "High Potion",
+        "desc" : "A bottle of Faery Essence, heal 80 hp",
+        "rarity": 4,
+        "type": "consummable",
+        "str": 80
+    },
+    {
+        "id": 4,
+        "name" : "Small Elixir",
+        "desc" : "A bottle of very diluted Faery Myst, restore 10 mp",
+        "rarity": 2,
+        "type": "consummable",
+        "str": 10
+    },
+    {
+        "id": 5,
+        "name" : "Elixir",
+        "desc" : "A bottle of Faery Myst, restore 20 mp",
+        "rarity": 3,
+        "type": "consummable",
+        "str": 20
+    },
+    {
+        "id": 6,
+        "name" : "High Elixir",
+        "desc" : "A bottle of Faery Dust, restore 50 mp",
+        "rarity": 4,
+        "type": "consummable",
+        "str": 50
+    },
+    {
+        "id": 7,
+        "name" : "Master Sword",
+        "desc" : "Sword of legend given by goddess Hylia herself, give +20 damage against boss",
+        "rarity": 5,
+        "type": "equippement",
+        "str": 50
+    }
+]
